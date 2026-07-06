@@ -1,8 +1,11 @@
-from read_csv import read_csv
-from config.spark_session import get_spark_session
+def print_schema(df):
 
-spark = get_spark_session()
+    return df.printSchema()
 
-customer_df = read_csv(spark, "data/raw/customer.csv")
+def show_columns(df):
 
-customer_df.printSchema()
+    return df.columns()
+
+
+
+
