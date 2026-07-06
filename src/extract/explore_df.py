@@ -8,4 +8,10 @@ def show_columns(df):
 
 
 
+def describe_data(df):
+    
+    return df.describe()
+
+
+
 
