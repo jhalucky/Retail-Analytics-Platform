@@ -1,1 +1,1001 @@
 product_id,product_name,category,brand,price,stock_quantity
+1,Jeans,Sports,Cello,49954,364
+2,Bluetooth Speaker,Electronics,Asus,96287,456
+3,Monitor 24 Inch,Fitness,Acer,98548,488
+4,Laptop,Home,Acer,81261,467
+5,Earbuds,Kitchen,Sony,59651,197
+6,Running Shoes,Accessories,Realme,81434,267
+7,Basketball,Stationery,LG,11163,360
+8,Pen,Home,Cello,31638,28
+9,Printer,Home,Acer,58172,90
+10,Smartphone,Fashion,Boat,36022,495
+11,Sunglasses,Home,Adidas,11272,367
+12,Water Bottle,Furniture,Nike,98830,475
+13,Smartphone,Kitchen,Nike,1904,81
+14,Printer,Home,Noise,10394,369
+15,Backpack,Stationery,Logitech,29901,35
+16,Pen,Kitchen,Logitech,72400,337
+17,Mixer Grinder,Furniture,LG,53908,138
+18,Laptop,Stationery,Boat,75073,281
+19,Jacket,Electronics,Dell,40001,286
+20,Sunglasses,Fitness,HP,30600,41
+21,Wallet,Fashion,Boat,80935,336
+22,T-Shirt,Fitness,Philips,94857,189
+23,Tripod,Home,Classmate,96738,109
+24,USB-C Hub,Sports,OnePlus,99982,445
+25,Air Fryer,Stationery,Samsung,88620,82
+26,Monitor 24 Inch,Stationery,Mi,55480,229
+27,Desk Lamp,Electronics,Nike,59754,448
+28,Tablet,Electronics,Milton,78617,120
+29,Mixer Grinder,Accessories,Puma,34623,464
+30,Desk Lamp,Fashion,Green Soul,4141,1
+31,Study Table,Furniture,Noise,34935,246
+32,Mixer Grinder,Home,Sony,88514,25
+33,Coffee Mug,Fitness,Realme,2866,459
+34,Bluetooth Speaker,Fitness,LG,97077,181
+35,Pen,Home,Milton,96570,185
+36,Scanner,Fashion,LG,45497,454
+37,Gaming Keyboard,Electronics,Nike,19132,16
+38,Basketball,Kitchen,Puma,91113,345
+39,Vacuum Cleaner,Stationery,Redragon,76039,123
+40,Tablet,Accessories,Milton,23232,301
+41,Gaming Keyboard,Sports,Wildcraft,93565,79
+42,Pendrive,Fashion,Noise,14309,67
+43,Dumbbells,Accessories,Asus,27692,234
+44,Desk Lamp,Sports,Lenovo,80349,15
+45,Ceiling Fan,Fashion,Boat,61651,263
+46,Cricket Bat,Stationery,Adidas,91609,64
+47,Cricket Bat,Fitness,LG,8698,90
+48,Wireless Mouse,Accessories,Philips,77682,104
+49,Running Shoes,Furniture,Lenovo,53811,427
+50,Smartphone,Fashion,Lenovo,82482,435
+51,Tablet,Kitchen,Puma,73623,429
+52,Earbuds,Stationery,Dell,35695,85
+53,Mechanical Keyboard,Fitness,Nike,17971,111
+54,Running Shoes,Electronics,Apple,75266,199
+55,Wireless Mouse,Fitness,Adidas,24859,378
+56,External SSD,Fashion,Mi,13286,116
+57,Printer,Fitness,Noise,53043,408
+58,Running Shoes,Sports,Acer,37089,101
+59,USB-C Hub,Kitchen,Classmate,5372,331
+60,USB-C Hub,Home,Nike,25388,345
+61,Mixer Grinder,Stationery,Asus,42943,335
+62,Backpack,Stationery,Redragon,91933,441
+63,School Bag,Fashion,Apple,67963,324
+64,Wireless Mouse,Sports,Redragon,84674,244
+65,Monitor 27 Inch,Fitness,Classmate,85971,500
+66,Protein Shaker,Fashion,Milton,84718,280
+67,External SSD,Stationery,Noise,34527,227
+68,Monitor 27 Inch,Fashion,Asus,77021,266
+69,Pencil,Home,Lenovo,93248,361
+70,Sneakers,Home,Acer,47928,487
+71,Desk Lamp,Fitness,Dell,38390,106
+72,Air Fryer,Sports,OnePlus,93951,295
+73,Desk Lamp,Accessories,Acer,91982,250
+74,Sunglasses,Home,Dell,35743,336
+75,Sunglasses,Furniture,Apple,70334,315
+76,Microphone,Fashion,Adidas,44869,317
+77,Protein Shaker,Sports,Adidas,14489,187
+78,Monitor 24 Inch,Accessories,Mi,27255,165
+79,School Bag,Stationery,Puma,5225,21
+80,Monitor 27 Inch,Fitness,Acer,62342,213
+81,T-Shirt,Sports,Acer,50034,333
+82,Protein Shaker,Fitness,Puma,60576,454
+83,Desk Lamp,Fitness,Asus,66303,81
+84,Smartphone,Electronics,Mi,35992,273
+85,Headphones,Accessories,Adidas,19525,191
+86,School Bag,Fashion,Adidas,9937,189
+87,Notebook,Accessories,Redragon,37669,43
+88,Dumbbells,Fashion,Green Soul,73825,135
+89,Sunglasses,Stationery,Logitech,79705,342
+90,Pencil,Fashion,Puma,59357,385
+91,Mixer Grinder,Home,Noise,49748,166
+92,Smart Watch,Sports,Logitech,39562,496
+93,Smartphone,Accessories,HP,87982,388
+94,Office Chair,Fitness,Cello,24213,60
+95,Basketball,Electronics,Noise,49762,90
+96,Laptop,Accessories,Redragon,96214,72
+97,Wireless Mouse,Kitchen,Classmate,96059,253
+98,Mixer Grinder,Stationery,Sony,98886,105
+99,Mixer Grinder,Fashion,Milton,948,363
+100,Mechanical Keyboard,Fitness,Adidas,51259,289
+101,Basketball,Electronics,Nike,98780,444
+102,Backpack,Furniture,HP,12117,31
+103,Smart Watch,Kitchen,LG,61152,458
+104,Webcam,Stationery,Samsung,34803,210
+105,Study Table,Kitchen,OnePlus,747,139
+106,Mixer Grinder,Accessories,HP,48723,223
+107,Headphones,Accessories,Philips,37926,4
+108,USB-C Hub,Furniture,Apple,72802,387
+109,Pen,Home,Logitech,69965,447
+110,Tripod,Fitness,Wildcraft,97823,404
+111,Protein Shaker,Accessories,Green Soul,1540,224
+112,Tripod,Electronics,Samsung,73170,331
+113,Gaming Keyboard,Sports,Samsung,56691,318
+114,Running Shoes,Sports,Dell,19874,492
+115,Gaming Keyboard,Kitchen,Apple,93329,286
+116,Microphone,Accessories,HP,80479,399
+117,Notebook,Furniture,Logitech,1069,361
+118,Pen,Accessories,Apple,87832,27
+119,Coffee Mug,Fitness,Milton,95938,55
+120,Mechanical Keyboard,Accessories,Noise,89395,238
+121,Smartphone,Fitness,Mi,75625,224
+122,Football,Kitchen,OnePlus,25086,313
+123,Water Bottle,Electronics,HP,40517,395
+124,Helmet,Furniture,Logitech,74508,439
+125,Pendrive,Furniture,LG,89814,39
+126,School Bag,Home,OnePlus,90518,488
+127,Pencil,Accessories,Philips,73679,471
+128,Jeans,Home,Nike,10397,90
+129,Gaming Keyboard,Kitchen,Logitech,36202,142
+130,Mixer Grinder,Kitchen,Dell,59159,413
+131,Study Table,Electronics,Boat,11282,475
+132,Office Chair,Accessories,Apple,47879,30
+133,Smart Watch,Fitness,Adidas,38755,217
+134,School Bag,Furniture,Puma,63209,33
+135,Monitor 24 Inch,Home,Sony,15769,65
+136,Earbuds,Furniture,Nike,25437,104
+137,Desk Lamp,Furniture,Dell,79654,60
+138,T-Shirt,Kitchen,Green Soul,25806,428
+139,USB-C Hub,Fitness,Redragon,11664,283
+140,Yoga Mat,Fashion,Adidas,17249,356
+141,Power Bank,Accessories,Milton,16537,98
+142,Yoga Mat,Fitness,Green Soul,69826,471
+143,Desk Lamp,Fashion,Mi,33192,306
+144,Dumbbells,Sports,Milton,37623,274
+145,Mechanical Keyboard,Sports,Mi,29937,90
+146,Backpack,Electronics,Noise,22801,29
+147,Jeans,Stationery,Apple,41113,388
+148,Vacuum Cleaner,Sports,Logitech,56810,360
+149,Pencil,Home,Nike,40676,93
+150,Mechanical Keyboard,Kitchen,Boat,34750,368
+151,Power Bank,Kitchen,Mi,76885,341
+152,Yoga Mat,Electronics,Nike,88415,9
+153,Smartphone,Fitness,OnePlus,93984,199
+154,Monitor 24 Inch,Fitness,Logitech,47719,454
+155,Pendrive,Sports,Philips,75688,39
+156,Wireless Mouse,Furniture,Milton,2243,250
+157,Webcam,Sports,Dell,85257,467
+158,Coffee Mug,Furniture,Samsung,27777,145
+159,Sneakers,Home,Adidas,24002,172
+160,Notebook,Home,Adidas,74631,89
+161,Webcam,Fitness,HP,15331,3
+162,Earbuds,Accessories,Wildcraft,56104,346
+163,Bluetooth Speaker,Fashion,Adidas,34908,188
+164,Wireless Mouse,Accessories,OnePlus,34392,106
+165,Jeans,Home,Boat,49397,351
+166,Water Bottle,Accessories,Asus,4048,68
+167,Air Fryer,Sports,Nike,78654,429
+168,Gaming Keyboard,Accessories,Redragon,82475,309
+169,Smartphone,Kitchen,OnePlus,51953,75
+170,Bluetooth Speaker,Furniture,Samsung,179,497
+171,Smartphone,Accessories,Dell,25074,371
+172,Jeans,Home,Nike,71244,347
+173,Basketball,Fashion,Acer,64604,273
+174,Wallet,Accessories,HP,20051,481
+175,Football,Electronics,Redragon,92531,492
+176,Wallet,Fitness,Boat,29923,241
+177,Jacket,Home,Cello,15023,287
+178,Air Fryer,Kitchen,LG,22246,416
+179,Water Bottle,Accessories,Noise,2310,201
+180,Running Shoes,Furniture,OnePlus,58764,472
+181,Wireless Mouse,Furniture,Milton,70514,263
+182,Wireless Mouse,Sports,Mi,59086,459
+183,Jacket,Sports,Redragon,80430,292
+184,Backpack,Kitchen,Apple,95775,17
+185,Sunglasses,Electronics,Redragon,7056,387
+186,Water Bottle,Fitness,Classmate,82207,52
+187,Protein Shaker,Accessories,OnePlus,18581,268
+188,Backpack,Electronics,LG,4420,221
+189,Sunglasses,Fashion,Apple,49033,70
+190,Wallet,Stationery,Redragon,90210,440
+191,Pen,Kitchen,Nike,75824,270
+192,Webcam,Sports,HP,7564,186
+193,Vacuum Cleaner,Fitness,Classmate,57909,194
+194,Pendrive,Accessories,Mi,33909,487
+195,Earbuds,Fitness,Philips,84314,1
+196,Wireless Mouse,Electronics,LG,56305,356
+197,Gaming Keyboard,Accessories,Realme,66191,470
+198,Desk Lamp,Electronics,Apple,35817,246
+199,Laptop,Fitness,Dell,2910,366
+200,Monitor 24 Inch,Furniture,LG,51090,311
+201,Electric Kettle,Sports,Philips,73653,99
+202,Backpack,Electronics,Milton,70485,430
+203,Sunglasses,Fitness,Mi,3308,126
+204,Cricket Bat,Furniture,Cello,56340,133
+205,Office Chair,Fashion,LG,14681,87
+206,Yoga Mat,Electronics,Boat,34014,320
+207,Basketball,Sports,Boat,18899,257
+208,Cricket Bat,Stationery,Logitech,25212,395
+209,Headphones,Kitchen,Cello,67838,125
+210,Jeans,Furniture,HP,72483,46
+211,Scanner,Fashion,Green Soul,43841,100
+212,Wallet,Furniture,Philips,42039,192
+213,Headphones,Furniture,Logitech,91951,303
+214,Pendrive,Sports,Classmate,97365,153
+215,Earbuds,Electronics,LG,33344,362
+216,Printer,Home,Apple,53368,474
+217,Earbuds,Kitchen,Wildcraft,8862,153
+218,Study Table,Kitchen,Nike,82846,105
+219,Pencil,Fitness,Apple,12856,179
+220,Cricket Bat,Furniture,Apple,41511,318
+221,Office Chair,Furniture,Milton,77037,244
+222,Sneakers,Fashion,Adidas,60621,306
+223,Wallet,Accessories,Acer,36582,167
+224,Dumbbells,Furniture,Dell,45853,47
+225,Ceiling Fan,Fitness,Acer,52256,397
+226,Pen,Furniture,Nike,86881,88
+227,Office Chair,Home,Wildcraft,96456,455
+228,Headphones,Home,LG,78794,38
+229,Running Shoes,Home,Wildcraft,13809,284
+230,Mechanical Keyboard,Home,Cello,34046,485
+231,Monitor 27 Inch,Electronics,Nike,23416,210
+232,Wallet,Accessories,LG,15972,42
+233,Air Fryer,Kitchen,Wildcraft,77445,92
+234,Pencil,Accessories,Cello,51332,81
+235,Printer,Kitchen,Redragon,50785,2
+236,Laptop,Accessories,Acer,11105,70
+237,Study Table,Electronics,Boat,96953,134
+238,Sneakers,Kitchen,HP,41478,52
+239,Coffee Mug,Furniture,Realme,64264,380
+240,Mechanical Keyboard,Electronics,HP,41265,114
+241,Helmet,Stationery,Cello,44524,355
+242,USB-C Hub,Home,Apple,53675,277
+243,Monitor 27 Inch,Sports,Dell,51445,181
+244,Sneakers,Fitness,Sony,22311,293
+245,Jeans,Electronics,Apple,24982,434
+246,Monitor 27 Inch,Accessories,Asus,59601,139
+247,Monitor 27 Inch,Furniture,Lenovo,29015,421
+248,Football,Sports,Wildcraft,20446,348
+249,Smartphone,Sports,Lenovo,94373,404
+250,Webcam,Home,OnePlus,79528,30
+251,Sunglasses,Home,Dell,67748,369
+252,Tripod,Kitchen,Green Soul,59097,421
+253,Electric Kettle,Kitchen,Nike,93209,498
+254,Printer,Sports,Sony,95953,409
+255,Electric Kettle,Home,Lenovo,93887,230
+256,Desk Lamp,Home,Redragon,63293,188
+257,Desk Lamp,Sports,Samsung,79005,378
+258,Bluetooth Speaker,Sports,Puma,35494,285
+259,Pendrive,Fitness,Puma,12816,487
+260,Smartphone,Fashion,Lenovo,19830,6
+261,Yoga Mat,Furniture,Cello,88235,108
+262,Tablet,Stationery,Acer,85823,417
+263,Notebook,Home,Realme,71106,245
+264,Electric Kettle,Stationery,Lenovo,64431,376
+265,T-Shirt,Home,Boat,91753,290
+266,Coffee Mug,Electronics,Nike,154,290
+267,Air Fryer,Kitchen,Mi,51909,379
+268,Tripod,Home,Cello,47783,174
+269,Basketball,Stationery,Apple,69081,317
+270,Sneakers,Electronics,Milton,52079,418
+271,Running Shoes,Accessories,Apple,60366,234
+272,Pendrive,Home,Boat,45314,179
+273,USB-C Hub,Furniture,Wildcraft,27116,103
+274,T-Shirt,Fashion,Dell,73336,355
+275,Cricket Bat,Kitchen,Milton,74757,369
+276,Coffee Mug,Stationery,Lenovo,69564,231
+277,Protein Shaker,Stationery,Dell,37339,127
+278,Bluetooth Speaker,Electronics,Adidas,47571,265
+279,Pencil,Fitness,Samsung,39703,463
+280,School Bag,Kitchen,Asus,83801,374
+281,Dumbbells,Fitness,Samsung,89061,39
+282,Mixer Grinder,Fashion,Logitech,57881,91
+283,Smart Watch,Electronics,Logitech,44086,129
+284,Pencil,Kitchen,Sony,21633,110
+285,Dumbbells,Fitness,Sony,89069,487
+286,Electric Kettle,Furniture,Samsung,55533,409
+287,Pendrive,Accessories,Dell,659,54
+288,Gaming Keyboard,Stationery,Nike,47612,155
+289,Mechanical Keyboard,Stationery,Acer,96662,456
+290,Monitor 27 Inch,Kitchen,Dell,92106,79
+291,Printer,Home,Nike,80164,334
+292,Electric Kettle,Fashion,Acer,70474,97
+293,Power Bank,Furniture,Green Soul,76587,4
+294,Pencil,Fitness,Cello,74614,468
+295,Dumbbells,Accessories,Noise,48670,486
+296,Printer,Home,Sony,55874,66
+297,Headphones,Stationery,OnePlus,5303,210
+298,Helmet,Kitchen,Logitech,5177,169
+299,Air Fryer,Sports,Mi,29852,368
+300,Water Bottle,Furniture,HP,35418,295
+301,Webcam,Electronics,Milton,47251,275
+302,Water Bottle,Kitchen,Apple,97253,427
+303,Study Table,Home,Puma,95017,63
+304,Study Table,Home,Sony,96381,157
+305,Smart Watch,Home,Philips,35219,70
+306,Webcam,Electronics,Apple,19123,484
+307,Vacuum Cleaner,Electronics,Samsung,41949,344
+308,Pencil,Electronics,Wildcraft,83011,462
+309,Sneakers,Electronics,Realme,69174,421
+310,Running Shoes,Kitchen,Logitech,93097,391
+311,Bluetooth Speaker,Kitchen,Nike,92065,173
+312,Sunglasses,Stationery,Adidas,98029,206
+313,Backpack,Stationery,Puma,68083,223
+314,Monitor 27 Inch,Kitchen,Realme,10391,39
+315,Laptop,Electronics,Dell,39901,418
+316,Microphone,Stationery,HP,73420,110
+317,Monitor 24 Inch,Fitness,Puma,68051,278
+318,Yoga Mat,Fitness,Realme,63829,211
+319,Basketball,Stationery,OnePlus,84260,112
+320,Pencil,Fashion,Noise,80413,426
+321,Earbuds,Fashion,Noise,9457,0
+322,Tripod,Home,OnePlus,4928,352
+323,Pen,Furniture,Philips,35776,442
+324,Webcam,Home,Lenovo,13671,223
+325,Jeans,Stationery,Lenovo,17077,424
+326,Monitor 24 Inch,Kitchen,Dell,63591,42
+327,Wallet,Sports,Milton,28043,239
+328,Football,Furniture,Green Soul,1908,71
+329,Notebook,Home,Samsung,79137,465
+330,Protein Shaker,Electronics,Sony,64534,439
+331,Ceiling Fan,Home,Realme,85118,261
+332,Mixer Grinder,Fitness,OnePlus,26115,191
+333,Football,Stationery,Noise,58939,380
+334,Webcam,Stationery,Lenovo,47873,191
+335,Pencil,Furniture,HP,28613,428
+336,Earbuds,Furniture,Logitech,70804,253
+337,Water Bottle,Accessories,Classmate,20996,29
+338,Pendrive,Sports,Boat,12026,456
+339,Smartphone,Kitchen,Redragon,1164,253
+340,School Bag,Electronics,Boat,61720,202
+341,Monitor 27 Inch,Kitchen,Philips,7369,189
+342,Dumbbells,Accessories,Samsung,75805,347
+343,Headphones,Stationery,Green Soul,41216,19
+344,Headphones,Fashion,Milton,17348,348
+345,Mixer Grinder,Electronics,Classmate,66809,144
+346,Smartphone,Fashion,Apple,30443,175
+347,Electric Kettle,Fashion,Cello,11625,423
+348,Wallet,Electronics,Mi,66632,109
+349,Protein Shaker,Home,Green Soul,84108,349
+350,Yoga Mat,Furniture,Apple,11637,311
+351,USB-C Hub,Furniture,Puma,95700,314
+352,Jacket,Fitness,LG,76345,98
+353,Running Shoes,Stationery,Samsung,34440,60
+354,Vacuum Cleaner,Fitness,Boat,63869,495
+355,Electric Kettle,Fitness,LG,74681,425
+356,External SSD,Accessories,Mi,61120,420
+357,Wireless Mouse,Fashion,Mi,88787,110
+358,Basketball,Kitchen,Green Soul,1333,223
+359,Webcam,Accessories,Lenovo,21036,22
+360,Cricket Bat,Home,Sony,94161,112
+361,Smart Watch,Home,Noise,82194,396
+362,Coffee Mug,Kitchen,Noise,88395,296
+363,Monitor 27 Inch,Accessories,Asus,22551,136
+364,Smartphone,Kitchen,Asus,70637,477
+365,School Bag,Stationery,Classmate,69303,479
+366,Pencil,Home,Logitech,234,244
+367,Mechanical Keyboard,Kitchen,Realme,15836,120
+368,Smart Watch,Furniture,Nike,14917,104
+369,Yoga Mat,Sports,Puma,60185,86
+370,Pendrive,Kitchen,Milton,92616,38
+371,Microphone,Sports,Boat,47601,244
+372,Power Bank,Electronics,Green Soul,12891,31
+373,Ceiling Fan,Stationery,Acer,76990,323
+374,Laptop,Home,Samsung,67521,434
+375,Smart Watch,Electronics,Green Soul,58593,86
+376,Mixer Grinder,Fashion,LG,93382,20
+377,Electric Kettle,Fitness,Mi,87256,441
+378,Basketball,Fitness,Apple,77759,483
+379,Water Bottle,Home,Classmate,66696,395
+380,Pen,Accessories,Nike,36692,141
+381,Running Shoes,Furniture,LG,38793,10
+382,Jacket,Electronics,Samsung,85886,296
+383,Scanner,Accessories,Asus,10713,366
+384,Smart Watch,Stationery,Boat,6349,210
+385,Power Bank,Home,Acer,44792,85
+386,Helmet,Kitchen,Milton,80147,42
+387,Pen,Accessories,Philips,67002,486
+388,Dumbbells,Kitchen,Mi,87861,53
+389,Backpack,Sports,Apple,50844,103
+390,Basketball,Fashion,Nike,46311,104
+391,Pen,Sports,Sony,919,481
+392,Jeans,Fashion,Milton,86908,474
+393,Jeans,Kitchen,Green Soul,49154,275
+394,Mixer Grinder,Electronics,Puma,36206,340
+395,Desk Lamp,Furniture,Samsung,64862,359
+396,Coffee Mug,Sports,Classmate,95746,221
+397,Office Chair,Fashion,Sony,90114,41
+398,Jeans,Home,Green Soul,29941,25
+399,Earbuds,Fashion,Nike,49606,497
+400,Backpack,Furniture,Cello,3155,2
+401,Earbuds,Accessories,Redragon,73111,115
+402,Desk Lamp,Kitchen,HP,86537,133
+403,Tablet,Electronics,Realme,64424,333
+404,Scanner,Fashion,Puma,18324,314
+405,Running Shoes,Electronics,Nike,83490,149
+406,Study Table,Kitchen,Logitech,58142,72
+407,Sunglasses,Fitness,Wildcraft,71372,198
+408,Gaming Keyboard,Electronics,Puma,59100,71
+409,Vacuum Cleaner,Accessories,Wildcraft,47985,32
+410,Football,Stationery,Noise,67974,147
+411,Protein Shaker,Fitness,HP,471,126
+412,Headphones,Electronics,Noise,95415,21
+413,Smart Watch,Fitness,HP,78851,39
+414,Earbuds,Stationery,Dell,42946,124
+415,Laptop,Home,Boat,75784,161
+416,Printer,Accessories,Philips,97974,241
+417,Earbuds,Kitchen,Wildcraft,83345,398
+418,USB-C Hub,Stationery,Philips,883,403
+419,Jeans,Home,HP,57927,176
+420,Gaming Keyboard,Fitness,Adidas,29240,456
+421,Gaming Keyboard,Sports,Cello,90476,454
+422,Jacket,Fitness,Cello,93306,26
+423,Laptop,Home,Wildcraft,33332,139
+424,Electric Kettle,Kitchen,Sony,17011,38
+425,School Bag,Stationery,Classmate,123,117
+426,Basketball,Furniture,Asus,98553,164
+427,T-Shirt,Stationery,Adidas,59427,257
+428,Sunglasses,Stationery,Cello,95701,189
+429,Desk Lamp,Sports,Apple,22664,220
+430,Jacket,Furniture,Noise,94845,3
+431,Basketball,Fitness,Philips,51679,175
+432,Smartphone,Accessories,Nike,76564,475
+433,Monitor 27 Inch,Furniture,Puma,24739,172
+434,Power Bank,Fitness,Dell,26973,345
+435,Yoga Mat,Sports,Green Soul,13523,358
+436,Football,Sports,LG,55876,58
+437,T-Shirt,Home,LG,1314,193
+438,Sunglasses,Accessories,Puma,63227,58
+439,Jacket,Accessories,Apple,71802,215
+440,Football,Electronics,Acer,14227,491
+441,Office Chair,Stationery,Realme,4957,395
+442,Wallet,Fitness,Lenovo,45570,124
+443,Smart Watch,Furniture,Noise,99506,264
+444,Cricket Bat,Kitchen,Logitech,18621,52
+445,Dumbbells,Electronics,Wildcraft,10610,403
+446,Mechanical Keyboard,Sports,Puma,35737,150
+447,Power Bank,Fashion,Boat,60371,300
+448,Headphones,Kitchen,Mi,84359,482
+449,Pencil,Home,Samsung,61315,106
+450,Mechanical Keyboard,Home,Milton,23317,40
+451,Office Chair,Stationery,Boat,11445,20
+452,Pen,Sports,Dell,63979,147
+453,Jacket,Sports,Apple,10903,494
+454,Vacuum Cleaner,Kitchen,OnePlus,72872,476
+455,Ceiling Fan,Kitchen,Philips,12505,335
+456,T-Shirt,Fashion,Philips,82980,156
+457,Pencil,Fashion,HP,69469,350
+458,T-Shirt,Accessories,Dell,52665,181
+459,Smartphone,Furniture,Sony,85995,385
+460,Pendrive,Fitness,Classmate,70888,273
+461,Jeans,Fitness,Dell,17071,377
+462,Coffee Mug,Accessories,Dell,52336,305
+463,Pendrive,Furniture,LG,13291,189
+464,Jacket,Fitness,Puma,52656,0
+465,Headphones,Accessories,Dell,9702,197
+466,Football,Fashion,Nike,75300,490
+467,Yoga Mat,Stationery,Cello,57585,276
+468,Headphones,Fashion,Classmate,95061,222
+469,Vacuum Cleaner,Electronics,Adidas,50770,333
+470,Mechanical Keyboard,Electronics,HP,61068,271
+471,Jeans,Kitchen,Samsung,38644,206
+472,Running Shoes,Accessories,Puma,74932,148
+473,Sunglasses,Electronics,Classmate,24657,58
+474,Tripod,Stationery,OnePlus,60284,172
+475,Tablet,Accessories,Milton,29086,490
+476,Pendrive,Fitness,Puma,90356,6
+477,Gaming Keyboard,Kitchen,Wildcraft,5059,395
+478,Jeans,Accessories,Samsung,19130,7
+479,T-Shirt,Home,Wildcraft,85354,492
+480,Dumbbells,Kitchen,Asus,20142,15
+481,Smart Watch,Stationery,Asus,26961,367
+482,Mechanical Keyboard,Sports,Cello,71474,162
+483,Laptop,Kitchen,Wildcraft,24702,133
+484,Smart Watch,Sports,Milton,39815,160
+485,Mixer Grinder,Furniture,LG,60572,499
+486,Webcam,Electronics,Dell,89347,461
+487,Ceiling Fan,Home,Green Soul,10583,43
+488,Dumbbells,Home,Classmate,15911,238
+489,Microphone,Fashion,Puma,65996,385
+490,Earbuds,Accessories,Cello,60990,124
+491,Yoga Mat,Stationery,Classmate,61318,121
+492,Sneakers,Kitchen,Lenovo,15121,99
+493,Cricket Bat,Sports,Redragon,60348,46
+494,Mechanical Keyboard,Fashion,Wildcraft,3573,206
+495,Desk Lamp,Stationery,Philips,40451,56
+496,Power Bank,Sports,Nike,95943,300
+497,Study Table,Furniture,HP,54593,81
+498,Helmet,Stationery,Nike,30632,267
+499,Water Bottle,Furniture,Green Soul,29159,344
+500,Smart Watch,Sports,Sony,27300,433
+501,Notebook,Home,Mi,55304,264
+502,Tripod,Fashion,Nike,87360,480
+503,Wireless Mouse,Stationery,Adidas,99069,139
+504,USB-C Hub,Stationery,Samsung,40590,236
+505,Tablet,Sports,Green Soul,63315,323
+506,Notebook,Sports,Samsung,59000,253
+507,Printer,Electronics,Green Soul,74585,380
+508,Running Shoes,Fashion,Adidas,33417,104
+509,Backpack,Home,OnePlus,67373,1
+510,Basketball,Electronics,Sony,41707,347
+511,Air Fryer,Furniture,Boat,63562,137
+512,Monitor 27 Inch,Home,Asus,25805,128
+513,School Bag,Accessories,Green Soul,44034,167
+514,Air Fryer,Furniture,Lenovo,80845,426
+515,Earbuds,Furniture,Noise,29160,427
+516,Laptop,Furniture,HP,48755,212
+517,Running Shoes,Furniture,Classmate,69589,158
+518,External SSD,Fitness,Nike,56339,248
+519,Microphone,Furniture,Philips,35211,302
+520,Running Shoes,Accessories,Apple,75356,284
+521,Office Chair,Kitchen,Philips,4186,238
+522,Printer,Stationery,Mi,74437,133
+523,Notebook,Stationery,Logitech,13128,404
+524,Ceiling Fan,Stationery,Realme,15278,141
+525,Monitor 27 Inch,Stationery,Sony,35268,380
+526,Headphones,Fashion,Puma,88144,0
+527,Dumbbells,Fitness,Nike,37521,363
+528,Dumbbells,Fitness,Asus,57937,460
+529,Tripod,Sports,Apple,27271,381
+530,Backpack,Furniture,Realme,35071,47
+531,Microphone,Sports,OnePlus,68547,38
+532,Desk Lamp,Fashion,Green Soul,97024,266
+533,Smart Watch,Electronics,OnePlus,58658,131
+534,Notebook,Accessories,Adidas,53731,0
+535,Gaming Keyboard,Electronics,Classmate,62678,169
+536,Wireless Mouse,Home,Classmate,34957,391
+537,Study Table,Furniture,Green Soul,85311,241
+538,USB-C Hub,Fashion,LG,1910,385
+539,Scanner,Home,Cello,15571,54
+540,Smart Watch,Accessories,Nike,4010,26
+541,Jeans,Sports,Sony,77382,335
+542,Basketball,Sports,Lenovo,28971,219
+543,Printer,Home,Milton,74444,343
+544,Laptop,Home,HP,71976,183
+545,Microphone,Accessories,Nike,13447,254
+546,Webcam,Stationery,Apple,74099,204
+547,Backpack,Home,Boat,14263,112
+548,Smartphone,Accessories,Classmate,16854,278
+549,Coffee Mug,Fashion,Asus,86932,100
+550,Dumbbells,Kitchen,Acer,42716,179
+551,Backpack,Fitness,Sony,64445,203
+552,Printer,Fashion,Samsung,44846,234
+553,School Bag,Sports,Boat,54749,223
+554,Laptop,Kitchen,Sony,45737,346
+555,Tablet,Fitness,Redragon,85473,3
+556,Jeans,Electronics,Logitech,7697,430
+557,Backpack,Fitness,Milton,89485,463
+558,Backpack,Kitchen,Mi,47462,212
+559,Smartphone,Kitchen,Wildcraft,96584,171
+560,Webcam,Furniture,Philips,65458,311
+561,Running Shoes,Stationery,Classmate,70247,208
+562,Desk Lamp,Accessories,Redragon,81957,134
+563,Headphones,Furniture,Sony,90997,380
+564,Air Fryer,Stationery,Logitech,49269,391
+565,Tripod,Fashion,Lenovo,7068,208
+566,Mixer Grinder,Electronics,OnePlus,25560,253
+567,School Bag,Furniture,Apple,60192,413
+568,Pen,Stationery,Sony,24387,133
+569,Coffee Mug,Kitchen,Cello,10559,173
+570,Study Table,Accessories,Asus,52152,354
+571,Notebook,Fashion,Samsung,32882,282
+572,External SSD,Fashion,Green Soul,44555,338
+573,Laptop,Furniture,HP,24296,6
+574,T-Shirt,Accessories,Adidas,56246,465
+575,Wireless Mouse,Accessories,Dell,26154,413
+576,Pendrive,Accessories,Redragon,68027,420
+577,Smart Watch,Electronics,Sony,16286,82
+578,Office Chair,Electronics,Apple,29043,278
+579,USB-C Hub,Fashion,Sony,82639,87
+580,Study Table,Furniture,Sony,10447,33
+581,Laptop,Accessories,Adidas,98078,305
+582,Monitor 27 Inch,Electronics,Logitech,12443,350
+583,Basketball,Sports,HP,28204,435
+584,Water Bottle,Fashion,Apple,93827,78
+585,Football,Accessories,Dell,61849,146
+586,Monitor 27 Inch,Furniture,LG,14210,200
+587,Smartphone,Home,Puma,35675,414
+588,Pen,Fitness,Milton,43678,27
+589,Earbuds,Fashion,Apple,38379,337
+590,Air Fryer,Home,Samsung,88066,19
+591,Tablet,Home,Wildcraft,2467,183
+592,Coffee Mug,Furniture,Apple,9917,73
+593,Dumbbells,Electronics,Classmate,84500,127
+594,Pen,Kitchen,Philips,39378,307
+595,Ceiling Fan,Electronics,Lenovo,7041,127
+596,Sunglasses,Electronics,OnePlus,3763,230
+597,Mechanical Keyboard,Electronics,Mi,9644,273
+598,Laptop,Home,Apple,33225,401
+599,Helmet,Fitness,Boat,81748,67
+600,Air Fryer,Sports,Acer,47618,59
+601,Study Table,Kitchen,Adidas,16776,225
+602,Football,Fitness,Adidas,16400,430
+603,T-Shirt,Furniture,Dell,81420,119
+604,Smart Watch,Stationery,Adidas,18440,308
+605,External SSD,Accessories,Dell,37006,187
+606,Water Bottle,Home,Redragon,4777,405
+607,Webcam,Fashion,Sony,23211,366
+608,Basketball,Electronics,OnePlus,54259,266
+609,Monitor 27 Inch,Home,HP,72044,385
+610,Jacket,Fitness,Realme,49107,136
+611,Office Chair,Fitness,Acer,68283,189
+612,Jacket,Sports,Dell,49471,317
+613,Running Shoes,Kitchen,Samsung,79522,234
+614,Electric Kettle,Sports,Milton,93337,291
+615,Bluetooth Speaker,Sports,LG,45458,0
+616,Electric Kettle,Electronics,Realme,76031,496
+617,Tablet,Electronics,Boat,94807,198
+618,Mechanical Keyboard,Sports,Adidas,7585,11
+619,Jeans,Furniture,Wildcraft,31349,242
+620,Scanner,Sports,Milton,25564,438
+621,Mixer Grinder,Home,LG,60995,123
+622,Wallet,Electronics,Acer,47986,107
+623,Bluetooth Speaker,Electronics,Classmate,15237,166
+624,Ceiling Fan,Fashion,Cello,65974,443
+625,T-Shirt,Kitchen,Apple,76740,316
+626,Pendrive,Fashion,Wildcraft,2851,415
+627,Webcam,Sports,Wildcraft,24102,259
+628,Study Table,Sports,Boat,40262,457
+629,Vacuum Cleaner,Home,Asus,96532,107
+630,Basketball,Home,Classmate,72177,212
+631,Dumbbells,Accessories,Asus,20070,227
+632,Sneakers,Kitchen,HP,95384,397
+633,Helmet,Home,HP,37896,18
+634,Pen,Sports,Philips,88611,406
+635,Sunglasses,Stationery,OnePlus,43942,480
+636,Electric Kettle,Kitchen,Logitech,69509,393
+637,T-Shirt,Electronics,Wildcraft,23806,405
+638,Study Table,Fitness,Sony,48295,379
+639,Power Bank,Kitchen,Wildcraft,92554,58
+640,Jacket,Home,LG,11219,180
+641,Gaming Keyboard,Fashion,Puma,87861,76
+642,Monitor 24 Inch,Electronics,Puma,67753,278
+643,Air Fryer,Fashion,Wildcraft,90319,220
+644,Webcam,Fashion,Dell,28527,192
+645,Earbuds,Fashion,Puma,51760,105
+646,Running Shoes,Furniture,Mi,7219,412
+647,Study Table,Sports,Lenovo,48606,474
+648,Earbuds,Home,Milton,17407,473
+649,Tablet,Stationery,Samsung,28584,109
+650,Pencil,Kitchen,Wildcraft,37975,353
+651,Yoga Mat,Electronics,Cello,90585,169
+652,Jeans,Home,HP,94353,450
+653,Gaming Keyboard,Fitness,Green Soul,88487,99
+654,Football,Electronics,Apple,57126,113
+655,Jacket,Stationery,Puma,82800,487
+656,Mechanical Keyboard,Sports,Redragon,92658,327
+657,Office Chair,Accessories,Classmate,74376,234
+658,Scanner,Accessories,Redragon,96403,339
+659,Bluetooth Speaker,Home,Dell,7694,374
+660,Electric Kettle,Fashion,Boat,20661,145
+661,Smart Watch,Stationery,HP,65992,255
+662,Ceiling Fan,Home,OnePlus,52288,47
+663,Power Bank,Home,Sony,58835,60
+664,Yoga Mat,Furniture,Mi,91711,265
+665,Helmet,Home,HP,4502,402
+666,External SSD,Furniture,Milton,1923,39
+667,Vacuum Cleaner,Sports,Acer,79353,191
+668,Yoga Mat,Fashion,Nike,44597,479
+669,Smart Watch,Furniture,Acer,68207,23
+670,External SSD,Sports,Apple,68884,475
+671,Yoga Mat,Home,Asus,8283,356
+672,Pen,Fashion,LG,14794,496
+673,Wallet,Accessories,Adidas,98518,2
+674,Coffee Mug,Accessories,Redragon,96040,91
+675,Webcam,Accessories,LG,35676,96
+676,Bluetooth Speaker,Electronics,Green Soul,27744,409
+677,Smartphone,Fitness,Acer,77055,356
+678,Helmet,Electronics,Dell,13221,430
+679,Scanner,Sports,Wildcraft,6264,65
+680,Jeans,Electronics,Samsung,14346,228
+681,Basketball,Fitness,Logitech,72584,335
+682,Monitor 27 Inch,Fashion,Noise,63639,198
+683,Office Chair,Fitness,Boat,3253,186
+684,Football,Furniture,Puma,54025,374
+685,Gaming Keyboard,Fitness,Redragon,92594,418
+686,Microphone,Stationery,Realme,72299,217
+687,Microphone,Fitness,Redragon,93955,331
+688,Smart Watch,Kitchen,Philips,17550,307
+689,Gaming Keyboard,Kitchen,Realme,26764,288
+690,Sneakers,Home,Wildcraft,1735,384
+691,Notebook,Kitchen,Logitech,68833,174
+692,Jacket,Home,Mi,44791,487
+693,Monitor 27 Inch,Furniture,Realme,26582,443
+694,Gaming Keyboard,Electronics,Cello,50928,254
+695,Wireless Mouse,Accessories,Apple,26604,416
+696,Scanner,Accessories,Redragon,18467,104
+697,USB-C Hub,Accessories,Mi,21966,53
+698,Notebook,Kitchen,Wildcraft,18717,2
+699,Wallet,Home,Acer,84064,77
+700,Jacket,Electronics,Sony,79271,113
+701,Mechanical Keyboard,Fashion,Logitech,18541,272
+702,Printer,Sports,Sony,6966,384
+703,School Bag,Accessories,Philips,86034,159
+704,Printer,Home,Green Soul,33979,289
+705,Backpack,Stationery,Milton,49604,472
+706,Dumbbells,Stationery,LG,47133,445
+707,Laptop,Fashion,Wildcraft,57332,413
+708,Yoga Mat,Fitness,Milton,21755,398
+709,Pen,Fashion,Mi,59542,410
+710,Power Bank,Fitness,Green Soul,15846,298
+711,Dumbbells,Stationery,OnePlus,43342,162
+712,Sunglasses,Stationery,Logitech,79793,15
+713,Basketball,Kitchen,Mi,73281,54
+714,Running Shoes,Furniture,Milton,13461,17
+715,Cricket Bat,Furniture,Sony,64494,344
+716,Webcam,Fitness,OnePlus,26595,176
+717,Running Shoes,Sports,Wildcraft,55390,381
+718,Earbuds,Kitchen,Samsung,63332,472
+719,Laptop,Stationery,Sony,49354,28
+720,External SSD,Accessories,Lenovo,19391,432
+721,Running Shoes,Home,Acer,61567,137
+722,T-Shirt,Home,Realme,81106,57
+723,Bluetooth Speaker,Kitchen,Realme,54787,121
+724,Running Shoes,Electronics,Apple,36153,317
+725,T-Shirt,Kitchen,Nike,20053,59
+726,Webcam,Kitchen,Wildcraft,4642,462
+727,Smartphone,Kitchen,Acer,77517,433
+728,Vacuum Cleaner,Accessories,Boat,37057,34
+729,Gaming Keyboard,Furniture,Wildcraft,8568,148
+730,Power Bank,Home,Noise,75525,91
+731,Ceiling Fan,Electronics,Wildcraft,17857,370
+732,Electric Kettle,Home,Green Soul,57668,349
+733,Protein Shaker,Accessories,Boat,38350,170
+734,Monitor 24 Inch,Fashion,Logitech,34401,287
+735,Pendrive,Sports,LG,65266,299
+736,Protein Shaker,Stationery,Adidas,57444,296
+737,Ceiling Fan,Sports,LG,4764,15
+738,Dumbbells,Kitchen,Sony,74655,476
+739,Jacket,Home,OnePlus,63936,316
+740,Mixer Grinder,Stationery,Sony,27327,112
+741,Coffee Mug,Accessories,Apple,47258,318
+742,Microphone,Accessories,Dell,34895,342
+743,Jeans,Accessories,Green Soul,6535,98
+744,Sneakers,Kitchen,Asus,53204,251
+745,Jeans,Kitchen,Wildcraft,91440,23
+746,Ceiling Fan,Fitness,Acer,65285,489
+747,Dumbbells,Accessories,Milton,41268,437
+748,Notebook,Furniture,Samsung,10984,135
+749,Running Shoes,Furniture,Classmate,69012,204
+750,Headphones,Sports,Realme,1977,462
+751,Bluetooth Speaker,Furniture,OnePlus,44544,65
+752,Pendrive,Stationery,Asus,24318,24
+753,Vacuum Cleaner,Furniture,Mi,19348,123
+754,Vacuum Cleaner,Stationery,Philips,81298,5
+755,Basketball,Home,Lenovo,90525,465
+756,Vacuum Cleaner,Electronics,Boat,37212,388
+757,Wallet,Fitness,Green Soul,95137,279
+758,External SSD,Sports,Cello,80400,488
+759,Mechanical Keyboard,Accessories,Acer,77160,382
+760,Ceiling Fan,Sports,Apple,11630,305
+761,Electric Kettle,Accessories,Redragon,59315,487
+762,Smart Watch,Stationery,Logitech,13727,28
+763,Yoga Mat,Home,HP,65448,457
+764,Football,Fashion,Sony,45776,403
+765,Water Bottle,Stationery,Mi,98006,284
+766,Jacket,Sports,Lenovo,49437,298
+767,External SSD,Fitness,Puma,48471,17
+768,Basketball,Fashion,Philips,45146,375
+769,Office Chair,Fashion,Acer,55103,376
+770,School Bag,Fitness,Green Soul,12574,114
+771,Helmet,Electronics,Green Soul,54627,360
+772,Mixer Grinder,Stationery,Asus,21652,397
+773,Water Bottle,Furniture,Samsung,47323,279
+774,School Bag,Kitchen,Apple,21235,16
+775,Earbuds,Sports,Milton,28794,177
+776,Headphones,Stationery,HP,96984,318
+777,Laptop,Fitness,Cello,96145,171
+778,Notebook,Electronics,Realme,29414,38
+779,Mixer Grinder,Furniture,Wildcraft,71661,243
+780,Vacuum Cleaner,Stationery,Wildcraft,85260,285
+781,Wireless Mouse,Fitness,Samsung,13588,11
+782,Electric Kettle,Accessories,Noise,5640,321
+783,Laptop,Stationery,Green Soul,68222,479
+784,Tripod,Sports,Lenovo,76765,138
+785,Electric Kettle,Furniture,Cello,41571,367
+786,Tablet,Furniture,Philips,64000,124
+787,Mechanical Keyboard,Kitchen,HP,32417,258
+788,Smartphone,Fitness,LG,13484,203
+789,Study Table,Electronics,Puma,77225,500
+790,Basketball,Furniture,Puma,68490,58
+791,Printer,Furniture,Logitech,60016,421
+792,Pencil,Stationery,Classmate,70531,218
+793,Cricket Bat,Electronics,Sony,45054,147
+794,Headphones,Kitchen,Wildcraft,1183,436
+795,Mixer Grinder,Stationery,LG,71702,402
+796,T-Shirt,Accessories,Acer,98813,331
+797,Laptop,Accessories,HP,22000,206
+798,Dumbbells,Sports,Dell,70213,264
+799,Mixer Grinder,Accessories,Adidas,56429,90
+800,Mixer Grinder,Sports,Realme,14106,141
+801,School Bag,Home,Philips,93922,72
+802,Jacket,Accessories,Noise,12160,129
+803,Office Chair,Accessories,Lenovo,62659,500
+804,Sunglasses,Fitness,LG,83635,330
+805,Jacket,Accessories,Acer,57439,167
+806,Tripod,Electronics,Wildcraft,33608,268
+807,Sunglasses,Fitness,Noise,77629,122
+808,Monitor 24 Inch,Kitchen,Redragon,50679,125
+809,Jacket,Furniture,Lenovo,89989,426
+810,Wallet,Accessories,Logitech,81565,497
+811,Bluetooth Speaker,Sports,LG,36141,365
+812,Pendrive,Accessories,Lenovo,94689,456
+813,USB-C Hub,Home,Lenovo,59827,200
+814,Vacuum Cleaner,Fitness,Sony,42924,113
+815,Protein Shaker,Electronics,Asus,42048,474
+816,Notebook,Sports,Redragon,90099,229
+817,Protein Shaker,Fitness,Boat,98755,150
+818,Vacuum Cleaner,Furniture,Milton,74298,301
+819,Basketball,Fashion,Sony,95186,466
+820,Jeans,Electronics,Apple,2597,496
+821,Smart Watch,Sports,Green Soul,86784,335
+822,School Bag,Home,Philips,14361,244
+823,Helmet,Furniture,Puma,62946,240
+824,Protein Shaker,Kitchen,Mi,29462,332
+825,Scanner,Sports,Puma,10351,307
+826,Basketball,Stationery,Philips,45547,133
+827,Air Fryer,Electronics,Logitech,2425,140
+828,Basketball,Electronics,Puma,50801,208
+829,Desk Lamp,Electronics,OnePlus,22090,477
+830,Webcam,Kitchen,Nike,41591,281
+831,Protein Shaker,Sports,Sony,3325,183
+832,Power Bank,Sports,Redragon,45980,498
+833,T-Shirt,Fitness,Noise,74183,109
+834,Vacuum Cleaner,Fitness,Acer,8102,399
+835,Water Bottle,Furniture,Green Soul,13984,221
+836,Pencil,Home,Samsung,99610,72
+837,Pendrive,Accessories,Puma,29008,248
+838,Smart Watch,Fashion,Noise,29736,277
+839,T-Shirt,Fitness,Lenovo,61975,219
+840,Webcam,Kitchen,Acer,807,21
+841,Football,Fitness,OnePlus,83690,28
+842,Sneakers,Accessories,HP,43683,437
+843,Bluetooth Speaker,Fashion,OnePlus,12847,24
+844,Pendrive,Stationery,Lenovo,52676,148
+845,Jeans,Stationery,Cello,31639,392
+846,Desk Lamp,Electronics,Sony,46493,436
+847,Smartphone,Fashion,Dell,71737,300
+848,Monitor 27 Inch,Fashion,Dell,56780,393
+849,Wireless Mouse,Electronics,Green Soul,12716,144
+850,Backpack,Fashion,LG,40933,282
+851,Earbuds,Furniture,Mi,73298,42
+852,Basketball,Sports,Puma,73098,234
+853,Running Shoes,Fitness,Samsung,84845,224
+854,Jacket,Accessories,Mi,36424,230
+855,Air Fryer,Fashion,Sony,48983,377
+856,Scanner,Kitchen,Acer,28598,271
+857,Mechanical Keyboard,Electronics,Acer,18743,103
+858,Office Chair,Fitness,Mi,47409,234
+859,Scanner,Electronics,Apple,20888,97
+860,Backpack,Furniture,Dell,73032,226
+861,Yoga Mat,Fashion,Adidas,8938,380
+862,Gaming Keyboard,Accessories,Realme,61776,98
+863,Smart Watch,Furniture,HP,83277,287
+864,Water Bottle,Furniture,Nike,35518,125
+865,Earbuds,Fitness,Classmate,12178,469
+866,Pen,Fashion,Lenovo,75331,391
+867,Printer,Stationery,Cello,28282,2
+868,Sneakers,Stationery,Puma,3801,88
+869,Smartphone,Kitchen,Dell,65048,168
+870,Water Bottle,Kitchen,Boat,55830,418
+871,Office Chair,Fashion,Wildcraft,92370,19
+872,Pencil,Stationery,Nike,47922,32
+873,Laptop,Home,Asus,7041,497
+874,Monitor 24 Inch,Stationery,Sony,77125,179
+875,Tripod,Kitchen,Wildcraft,71147,495
+876,Cricket Bat,Furniture,Asus,80446,214
+877,Tablet,Kitchen,HP,4680,171
+878,Yoga Mat,Electronics,Samsung,27188,340
+879,Smartphone,Furniture,LG,6075,164
+880,Tablet,Sports,Puma,1554,442
+881,USB-C Hub,Furniture,Milton,25201,9
+882,Mechanical Keyboard,Fashion,Mi,76130,305
+883,Air Fryer,Fitness,Mi,67541,221
+884,External SSD,Fitness,Lenovo,63317,106
+885,Jeans,Accessories,Nike,71837,29
+886,USB-C Hub,Furniture,LG,57567,111
+887,Monitor 24 Inch,Fashion,Redragon,64336,127
+888,Cricket Bat,Furniture,Asus,27371,478
+889,Basketball,Electronics,Sony,69382,33
+890,Notebook,Furniture,Redragon,80669,470
+891,Coffee Mug,Kitchen,Milton,53573,186
+892,Study Table,Electronics,Green Soul,67647,402
+893,Monitor 27 Inch,Fitness,Realme,61877,84
+894,Electric Kettle,Electronics,Green Soul,61401,407
+895,Gaming Keyboard,Kitchen,Milton,35459,350
+896,Scanner,Fashion,OnePlus,79529,42
+897,Wireless Mouse,Kitchen,Milton,41796,132
+898,Backpack,Electronics,LG,62231,499
+899,External SSD,Stationery,Wildcraft,58269,48
+900,Microphone,Stationery,Philips,51311,74
+901,Webcam,Stationery,Realme,92072,377
+902,Running Shoes,Sports,HP,78913,295
+903,Desk Lamp,Furniture,Dell,97472,233
+904,Football,Electronics,LG,47878,362
+905,Sunglasses,Accessories,Green Soul,8925,439
+906,Pen,Furniture,Boat,70978,252
+907,Mechanical Keyboard,Accessories,Logitech,84104,288
+908,Headphones,Home,Cello,89914,3
+909,Notebook,Sports,Puma,20838,265
+910,Running Shoes,Accessories,Boat,64261,346
+911,Running Shoes,Sports,Classmate,92482,324
+912,Jeans,Kitchen,LG,6712,267
+913,Printer,Accessories,Realme,18524,274
+914,Webcam,Sports,Logitech,44093,437
+915,Office Chair,Home,Samsung,2670,13
+916,Tablet,Home,Nike,83603,476
+917,Sunglasses,Kitchen,LG,32630,201
+918,Helmet,Furniture,Realme,84826,353
+919,Wireless Mouse,Furniture,Adidas,5324,449
+920,External SSD,Fashion,Mi,3307,160
+921,Pendrive,Furniture,Adidas,76872,299
+922,Gaming Keyboard,Electronics,HP,15260,25
+923,Tripod,Furniture,Redragon,23734,358
+924,Tripod,Home,HP,58556,494
+925,Microphone,Home,Lenovo,359,277
+926,Cricket Bat,Fashion,Logitech,62999,128
+927,Pen,Accessories,Puma,21395,384
+928,Microphone,Accessories,Nike,90127,21
+929,School Bag,Accessories,Realme,80665,442
+930,Gaming Keyboard,Fashion,Puma,60198,94
+931,Wallet,Kitchen,Noise,51391,139
+932,Scanner,Fashion,Dell,48375,162
+933,Vacuum Cleaner,Kitchen,Redragon,80445,162
+934,Headphones,Furniture,Noise,76131,333
+935,Basketball,Home,Lenovo,28186,244
+936,Study Table,Fitness,Puma,79407,253
+937,Helmet,Home,Acer,54289,289
+938,Gaming Keyboard,Sports,Dell,9204,462
+939,Running Shoes,Fashion,Samsung,25819,223
+940,Webcam,Fashion,Lenovo,99621,405
+941,Air Fryer,Kitchen,Puma,62126,435
+942,Coffee Mug,Fashion,HP,37166,247
+943,Study Table,Home,HP,57921,342
+944,Laptop,Stationery,Boat,45774,11
+945,Wallet,Home,Cello,38076,349
+946,Office Chair,Stationery,Classmate,19793,15
+947,Notebook,Home,HP,86049,97
+948,Electric Kettle,Furniture,Milton,57576,279
+949,Smart Watch,Kitchen,Nike,10588,326
+950,Power Bank,Fitness,Cello,85821,239
+951,Air Fryer,Electronics,Acer,36291,486
+952,Wireless Mouse,Accessories,Puma,97614,124
+953,Smartphone,Fitness,Samsung,60629,499
+954,Protein Shaker,Sports,Asus,897,139
+955,Notebook,Stationery,Realme,67148,234
+956,USB-C Hub,Sports,Redragon,48013,4
+957,Power Bank,Fitness,Redragon,65020,51
+958,Backpack,Accessories,Puma,86936,440
+959,Vacuum Cleaner,Home,LG,35728,303
+960,Electric Kettle,Fashion,Puma,22534,0
+961,External SSD,Fitness,Noise,68925,305
+962,Laptop,Stationery,OnePlus,49636,203
+963,Office Chair,Electronics,Classmate,27737,334
+964,Monitor 24 Inch,Electronics,Classmate,30770,406
+965,Laptop,Home,Green Soul,73057,406
+966,Running Shoes,Furniture,OnePlus,54020,380
+967,Mechanical Keyboard,Furniture,OnePlus,60089,301
+968,Pendrive,Kitchen,Realme,68847,378
+969,Jeans,Kitchen,Noise,50102,33
+970,External SSD,Electronics,Puma,69428,219
+971,Headphones,Electronics,Samsung,81312,424
+972,Smart Watch,Stationery,Dell,87909,245
+973,Protein Shaker,Accessories,Adidas,14614,274
+974,Sunglasses,Fitness,OnePlus,23697,24
+975,Office Chair,Electronics,Redragon,5343,86
+976,Coffee Mug,Accessories,Wildcraft,58521,232
+977,Earbuds,Furniture,OnePlus,70398,210
+978,Wallet,Stationery,Redragon,49009,105
+979,School Bag,Home,Apple,56831,99
+980,Ceiling Fan,Fitness,Lenovo,47946,136
+981,Tablet,Electronics,Wildcraft,96119,476
+982,Electric Kettle,Electronics,Philips,97349,63
+983,Laptop,Stationery,Sony,84600,159
+984,Scanner,Sports,Logitech,34782,497
+985,Air Fryer,Fashion,Green Soul,7735,315
+986,Bluetooth Speaker,Fitness,Cello,51409,433
+987,Microphone,Fashion,OnePlus,19928,247
+988,Cricket Bat,Sports,Nike,90915,7
+989,Webcam,Fitness,Acer,45734,332
+990,USB-C Hub,Fashion,Wildcraft,77565,10
+991,Desk Lamp,Home,Wildcraft,52414,404
+992,Gaming Keyboard,Fitness,Apple,39179,437
+993,External SSD,Home,Realme,86730,404
+994,Water Bottle,Stationery,Noise,89863,432
+995,Earbuds,Electronics,Wildcraft,57624,357
+996,Cricket Bat,Fitness,LG,58123,412
+997,Air Fryer,Fitness,Asus,56603,249
+998,Bluetooth Speaker,Electronics,Acer,77772,469
+999,Football,Kitchen,Realme,1827,79
+1000,Earbuds,Electronics,Milton,44861,288

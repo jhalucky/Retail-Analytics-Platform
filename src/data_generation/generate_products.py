@@ -1,5 +1,7 @@
 import csv
+import random
 from faker import Faker
+from constants import random_brand, random_category, random_product_name
 
 fake = Faker()
 
@@ -24,18 +26,19 @@ def generate_products(num_products, output_file):
                
                writer.writerow([
                     product_id,
-                    fake.,
-                    fake.,
-                    fake.brand_suffix(),
-                    fake.pricetag(),
-                    fake.random_number()
+                    random_product_name(),
+                    random_category(),
+                    random_brand(),
+                    random.randint(100, 100000),
+                    random.randint(0,500)
+                    
                 ])
                
 
-          print(f"{nums_products} generated and written successfully.")
+          print(f"{num_products} generated and written successfully.")
 
 
 
 
 if __name__ == "__main__":
-     generate_products(nums_products=1000, output_file="data/raw/products.csv")
+     generate_products(num_products=1000, output_file="data/raw/products.csv")
