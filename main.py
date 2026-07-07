@@ -10,19 +10,10 @@ from src.validate.schema import validate_schema
 from src.transform.trim_whitespace import trim_whitespace
 from src.transform.standardize_case import standardize_case
 from src.transform.clean_email import clean_email
+from src.transform.convert_dtypes import convert_dtypes
+from schemas import CUSTOMER_SCHEMA, ORDER_ITEM_SCHEMA, ORDER_SCHEMA, PAYMENT_SCHEMA, PRODUCT_SCHEMA
 
-CUSTOMER_SCHEMA = [
-    "customer_id",
-    "first_name",
-    "last_name",
-    "gender",
-    "email",
-    "phone",
-    "address",
-    "city",
-    "state",
-    "signup_date"
-]
+
 spark = get_spark_session()
 customer_df = read_csv(spark, "data/raw/customers.csv")
 product_df = read_csv(spark, "data/raw/products.csv")
@@ -48,8 +39,10 @@ payment_df = read_csv(spark, "data/raw/payments.csv")
 # validate_schema(customer_df, CUSTOMER_SCHEMA)
 # trim_whitespace(customer_df)
 # standardize_case(customer_df)
-customer_df=clean_email(customer_df)
-print(show_rows(customer_df, 10))
+# customer_df=clean_email(customer_df)
+print(convert_dtypes(customer_df, CUSTOMER_SCHEMA))
+# print(show_rows(customer_df, 10))
+
 
 
 
