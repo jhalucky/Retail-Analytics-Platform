@@ -11,6 +11,7 @@ from src.transform.trim_whitespace import trim_whitespace
 from src.transform.standardize_case import standardize_case
 from src.transform.clean_email import clean_email
 from src.transform.convert_dtypes import convert_dtypes
+from src.transform.joins import create_sales_dataframe
 from schemas import CUSTOMER_SCHEMA, ORDER_ITEM_SCHEMA, ORDER_SCHEMA, PAYMENT_SCHEMA, PRODUCT_SCHEMA
 
 
@@ -40,7 +41,8 @@ payment_df = read_csv(spark, "data/raw/payments.csv")
 # trim_whitespace(customer_df)
 # standardize_case(customer_df)
 # customer_df=clean_email(customer_df)
-print(convert_dtypes(customer_df, CUSTOMER_SCHEMA))
+# customer_df = convert_dtypes(customer_df, CUSTOMER_SCHEMA)
+# print(describe_data(customer_df))
 # print(show_rows(customer_df, 10))
 
 
@@ -56,4 +58,11 @@ print(convert_dtypes(customer_df, CUSTOMER_SCHEMA))
 # print(validate_missing_values(order_df))
 # print(validate_duplicate_rows(order_df))
 # print(validate_duplicate_primary_keys(order_df, "order_id"))
+
+sales_df = create_sales_dataframe(
+    customer_df, order_df, order_item_df, product_df, payment_df
+)
+print(show_rows(sales_df, 10))
+print_schema(sales_df)
+
 spark.stop()
