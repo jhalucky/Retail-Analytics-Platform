@@ -1,4 +1,4 @@
-from pyspark.sql.functions import sum, desc
+from pyspark.sql.functions import sum, desc, year, month
 
 def revenue_by_category(df):
 
@@ -28,5 +28,22 @@ def revenue_by_state(df):
         )
         .orderBy(desc("total_revenue"))
     )
+
+    return revenue_df
+
+
+def revenue_by_month(df):
+
+    revenue_df = (
+        df.groupBy(
+            year("order_date").alias("year"),
+            month("order_date").alias("month")
+        )
+        .agg(
+            sum("total_amount").alias("total_revenue")
+        )
+        .orderBy("year", "month")
+    )
+
 
     return revenue_df
